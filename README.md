@@ -14,9 +14,9 @@ Este repositório contém o código-fonte e os recursos do jogo, e estamos empol
 4. Divirta-se jogando!
 
 ## Screenshots
-![Screenshot 1](link_para_screenshot_1.png)
-![Screenshot 2](link_para_screenshot_2.png)
-![Screenshot 3](link_para_screenshot_3.png)
+![Screenshot 1](https://cdn.discordapp.com/attachments/1222946834553507944/1222947221759070228/i517681.png?ex=6618115a&is=66059c5a&hm=1b4dcd7bb3b008f93c800d656d8c52ad2b47da4819923b797c0b5b4226bbda21&)
+![Screenshot 2](https://cdn.discordapp.com/attachments/1222946834553507944/1222947221759070228/i517681.png?ex=6618115a&is=66059c5a&hm=1b4dcd7bb3b008f93c800d656d8c52ad2b47da4819923b797c0b5b4226bbda21&)
+![Screenshot 3](https://cdn.discordapp.com/attachments/1222946834553507944/1222947221759070228/i517681.png?ex=6618115a&is=66059c5a&hm=1b4dcd7bb3b008f93c800d656d8c52ad2b47da4819923b797c0b5b4226bbda21&)
 
 ## Showload do Jogo
 Você pode jogar o jogo clicando [aqui](link_para_showload_do_jogo).
