@@ -37,4 +37,4 @@ Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](
 
 ---
 
-Criado com ❤️ pelo [Seu Nome](link_para_perfil_do_desenvolvedor).
+Criado por [Hélio Barros](link_para_perfil_do_desenvolvedor).
