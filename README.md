@@ -3,9 +3,8 @@
 ![Banner do Jogo](https://cdn.discordapp.com/attachments/1222946834553507944/1222979098662408222/Sem-Titulo-1.png?ex=66182f0a&is=6605ba0a&hm=aa3059f1c8f4fd0fe60fa9b8239091d5a40e117112891915290ed62444d6fde3&)
 
 ## Descrição
-Bem-vindo ao SphereHunter! Este é um jogo desenvolvido na Unreal Engine 5 que oferece uma experiência emocionante e imersiva para os jogadores. Explore mundos incríveis, enfrente desafios emocionantes e descubra segredos escondidos enquanto embarca nesta jornada épica.
-
-Este repositório contém o código-fonte e os recursos do jogo, e estamos empolgados em compartilhar nosso trabalho com você!
+Bem-vindo ao SphereHunter! Este é o meu primeiro projeto como desenvolvedor solo e independente. É um jogo simples desenvolvido na Unreal Engine 5, oferecendo uma experiência básica para os jogadores.
+Este repositório contém os recursos do jogo. Estou empolgado em compartilhar meu primeiro projeto de jogo com você!
 
 ## Como Jogar
 1. Faça o download do jogo através do link abaixo.
