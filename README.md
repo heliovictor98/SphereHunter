@@ -19,15 +19,7 @@ Este repositório contém o código-fonte e os recursos do jogo, e estamos empol
 ![Screenshot 3](https://cdn.discordapp.com/attachments/1222946834553507944/1222947221759070228/i517681.png?ex=6618115a&is=66059c5a&hm=1b4dcd7bb3b008f93c800d656d8c52ad2b47da4819923b797c0b5b4226bbda21&)
 
 ## Showload do Jogo
-Você pode jogar o jogo clicando [aqui](link_para_showload_do_jogo).
-
-## Contribuindo
-Se você quiser contribuir para este projeto, siga estas etapas:
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Faça commit de suas alterações (`git commit -m 'Adicione uma incrível feature'`)
-4. Faça push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um pull request
+Você pode jogar o jogo clicando [aqui](https://drive.google.com/drive/folders/1ORaJ6KsM62VBzLfrtkq0fMFYK4upeaVV?usp=sharing).
 
 ## Suporte
 Se você tiver alguma dúvida ou encontrar algum problema, sinta-se à vontade para abrir uma issue aqui no GitHub.
