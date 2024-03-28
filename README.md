@@ -22,7 +22,7 @@ Este repositório contém o código-fonte e os recursos do jogo, e estamos empol
 Você pode jogar o jogo clicando [aqui](https://drive.google.com/drive/folders/1ORaJ6KsM62VBzLfrtkq0fMFYK4upeaVV?usp=sharing).
 
 ## Suporte
-Se você tiver alguma dúvida ou encontrar algum problema, sinta-se à vontade para abrir uma issue aqui no GitHub.
+Se você tiver alguma dúvida ou encontrar algum problema, sinta-se à vontade para responder o [formulario](https://docs.google.com/forms/d/12ZWTll-pcukMfpf5pbMcU8QzRmGTJnqJr_hyCQi2Zzk/prefill).
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
