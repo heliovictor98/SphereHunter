@@ -1,4 +1,4 @@
-# SphereHunter
+# SphereHunter 1.0
 
 ![Banner do Jogo](https://cdn.discordapp.com/attachments/1222946834553507944/1222979098662408222/Sem-Titulo-1.png?ex=66182f0a&is=6605ba0a&hm=aa3059f1c8f4fd0fe60fa9b8239091d5a40e117112891915290ed62444d6fde3&)
 
