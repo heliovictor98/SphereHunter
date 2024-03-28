@@ -1,6 +1,6 @@
 # SphereHunter
 
-![Banner do Jogo]([https://cdn.discordapp.com/attachments/1222946834553507944/1222946887737413793/tlou02.png?ex=6618110b&is=66059c0b&hm=a29cd49e70c28d6548b31a5ef2159b0b9f9326087fb7bcfcba3cac676abf4a3c&](https://media.discordapp.net/attachments/1222946834553507944/1222979098662408222/Sem-Titulo-1.png?ex=66182f0a&is=6605ba0a&hm=aa3059f1c8f4fd0fe60fa9b8239091d5a40e117112891915290ed62444d6fde3&=&format=webp&quality=lossless&width=835&height=401))
+![Banner do Jogo](https://cdn.discordapp.com/attachments/1222946834553507944/1222979098662408222/Sem-Titulo-1.png?ex=66182f0a&is=6605ba0a&hm=aa3059f1c8f4fd0fe60fa9b8239091d5a40e117112891915290ed62444d6fde3&)
 
 ## Descrição
 Bem-vindo ao SphereHunter! Este é um jogo desenvolvido na Unreal Engine 5 que oferece uma experiência emocionante e imersiva para os jogadores. Explore mundos incríveis, enfrente desafios emocionantes e descubra segredos escondidos enquanto embarca nesta jornada épica.
